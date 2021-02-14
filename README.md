@@ -1,8 +1,8 @@
 Third project in Metis Data Science bootcamp. Involves analyzing data in terms of classification.
 
+<img alt="martini" src="martini.png" height="100" width="100" align="right">
 
 # _To Cocktail or Not To_
-![martini] (martini.png)
 
 ## Description
 
