@@ -1,0 +1,291 @@
+,name,value,in_cocktail,ingredient
+397,,,True, sugar cane
+88,151 proof rum,15.0,True,151 proof rum
+141,7-Up,6.0,True,7-up
+196,Absinthe,3.0,True,absinthe
+122,Absolut Citron,8.0,True,absolut citron
+183,Absolut Kurant,3.0,True,absolut kurant
+353,Absolut Peppar,1.0,True,absolut peppar
+160,Absolut Vodka,5.0,True,absolut vodka
+238,Advocaat,2.0,True,advocaat
+312,Agave Syrup,1.0,True,agave
+292,Ale,1.0,True,ale
+237,Allspice,2.0,True,allspice
+348,Almond flavoring,1.0,True,almond
+34,Amaretto,42.0,True,amaretto
+261,Angelica root,2.0,True,angelica
+125,Angostura Bitters,8.0,True,angostura
+209,Anis,3.0,True,anis
+268,Anise,2.0,True,anise
+266,Anisette,2.0,True,anisette
+207,Aperol,3.0,True,aperol
+379,Apfelkorn,1.0,True,apfelkorn
+179,Apple,3.0,True,apple
+230,Apple brandy,2.0,True,apple brandy
+363,Apple cider,1.0,True,apple cider
+277,Apple schnapps,1.0,True,apple schnapps
+235,Applejack,2.0,True,applejack
+273,Apricot Nectar,1.0,True,apricot
+114,Apricot Brandy,1.0,True,apricot brandy
+302,Aquavit,1.0,True,aquavit
+192,Añejo rum,3.0,True,añejo rum
+204,Bacardi Limon,3.0,True,bacardi limon
+325,Bailey,1.0,True,bailey
+60,Baileys irish cream,24.0,True,baileys irish cream
+229,Banana,1.0,True,banana
+203,Creme de Banane,3.0,True,banane
+326,Basil,1.0,True,basil
+146,Beer,6.0,True,beer
+128,Benedictine,8.0,True,benedictine
+264,Bitter lemon,2.0,True,bitter lemon
+71,Bitters,17.0,True,bitters
+332,Blackberries,1.0,True,blackberry
+215,Blackberry brandy,3.0,True,blackberry brandy
+344,Blackcurrant cordial,1.0,True,blackcurrant
+350,Blackcurrant squash,1.0,True,blackcurrant squash
+304,blackstrap rum,1.0,True,blackstrap rum
+97,Blue Curacao,13.0,True,blue curacao
+194,Blueberries,3.0,True,blueberry
+320,Blueberry schnapps,1.0,True,blueberry schnapps
+381,,,True,bottle rosé
+76,Bourbon,16.0,True,bourbon
+54,Brandy,28.0,True,brandy
+170,Butterscotch schnapps,4.0,True,butterscotch schnapps
+118,Creme de Cacao,9.0,True,cacao
+216,Cachaca,3.0,True,cachaca
+115,Campari,9.0,True,campari
+324,Candy,1.0,True,candy
+374,Caramel coloring,1.0,True,caramel
+78,Carbonated water,16.0,True,carbonated
+136,Creme de Cassis,7.0,True,cassis
+290,Celery salt,1.0,True,celery salt
+129,Chambord raspberry liqueur,8.0,True,chambord raspberry
+102,Champagne,12.0,True,champagne
+152,Green Chartreuse,5.0,True,chartreuse
+68,Cherry liqueur,1.0,True,cherry
+140,Cherry brandy,6.0,True,cherry brandy
+331,Cherry Grenadine,1.0,True,cherry grenadine
+263,Cherry Heering,2.0,True,cherry heering
+296,Red Chili Flakes,1.0,True,chili
+220,Chocolate Sauce,1.0,True,chocolate
+239,Chocolate ice-cream,2.0,True,chocolate ice-cream
+161,Cider,5.0,True,cider
+173,Cinnamon,4.0,True,cinnamon
+193,Cloves,3.0,True,clove
+103,Club soda,12.0,True,club
+104,Coca-Cola,12.0,True,coca-cola
+367,Cocoa powder,1.0,True,cocoa powder
+210,Coconut liqueur,3.0,True,coconut
+403,,,True,coconut cream
+357,Coconut milk,1.0,True,coconut milk
+327,Coconut rum,1.0,True,coconut rum
+63,Coffee liqueur,4.0,True,coffee
+360,Coffee brandy,1.0,True,coffee brandy
+144,Cognac,6.0,True,cognac
+143,Cointreau,6.0,True,cointreau
+377,Condensed milk,1.0,True,condensed milk
+356,Coriander,1.0,True,coriander
+375,Corn syrup,1.0,True,corn
+184,Corona,3.0,True,corona
+66,Cranberries,1.0,True,cranberry
+311,Cranberry vodka,1.0,True,cranberry vodka
+80,Cream,7.0,True,cream
+242,Cream of coconut,2.0,True,cream coconut
+169,Crown Royal,4.0,True,crown royal
+335,Cucumber,1.0,True,cucumber
+281,Curacao,1.0,True,curacao
+366,Daiquiri mix,1.0,True,daiquiri
+252,Dark Creme de Cacao,2.0,True,dark cacao
+94,Dark Rum,4.0,True,dark rum
+405,,,True,dash angostura 
+369,demerara Sugar,1.0,True,demerara sugar
+404,,,True,double cream or whipping cream
+291,Dr. Pepper,1.0,True,dr. pepper
+250,Drambuie,2.0,True,drambuie
+349,Dubonnet Rouge,1.0,True,dubonnet rouge
+148,Egg,6.0,True,egg
+101,Egg White,2.0,True,egg white
+305,Egg Yolk,1.0,True,egg yolk
+370,Elderflower cordial,1.0,True,elderflower
+298,Erin Cream,1.0,True,erin cream
+318,Espresso,1.0,True,espresso
+171,Everclear,4.0,True,everclear
+310,Falernum,1.0,True,falernum
+316,Fennel seeds,1.0,True,fennel
+309,Figs,1.0,True,figs
+378,Firewater,1.0,True,firewater
+75,Food coloring,6.0,True,food coloring
+168,Frangelico,4.0,True,frangelico
+289,Fresca,1.0,True,fresca
+394,,,True,frozen raspberries
+341,Fruit juice,1.0,True,fruit
+246,Fruit punch,2.0,True,fruit punch
+133,Galliano,7.0,True,galliano
+337,St. Germain,1.0,True,germain
+1,gin,1.0,True,gin
+190,Ginger Syrup,1.0,True,ginger
+99,Ginger ale,12.0,True,ginger ale
+206,Ginger beer,2.0,True,ginger beer
+380,Glycerine,1.0,True,glycerine
+191,Godiva liqueur,3.0,True,godiva
+224,Gold rum,2.0,True,gold rum
+307,Gold tequila,1.0,True,gold tequila
+135,Goldschlager,7.0,True,goldschlager
+197,Grain alcohol,3.0,True,grain alcohol
+111,Grand Marnier,10.0,True,grand marnier
+293,Grape soda,1.0,True,grape
+153,Grapefruit juice,5.0,True,grapefruit
+38,Grenadine,37.0,True,grenadine
+208,Guinness stout,3.0,True,guinness stout
+243,Half-and-half,2.0,True,half-and-half
+174,Heavy cream,4.0,True,heavy cream
+186,Honey,3.0,True,honey
+301,Hot Sauce,1.0,True,hot
+287,Hot Chocolate,1.0,True,hot chocolate
+251,Hot Damn,2.0,True,hot damn
+368,Hpnotiq,1.0,True,hpnotiq
+35,Ice,37.0,True,ice
+385,,,True,ice cubes
+272,Iced tea,2.0,True,iced tea
+188,Irish cream,3.0,True,irish cream
+198,Irish whiskey,3.0,True,irish whiskey
+314,Islay single malt Scotch,1.0,True,islay single malt scotch
+151,Jack Daniels,5.0,True,jack daniels
+345,Jagermeister,1.0,True,jagermeister
+340,Jello,1.0,True,jello
+267,Jim Beam,2.0,True,jim beam
+247,Johnnie Walker,2.0,True,johnnie walker
+149,Jägermeister,6.0,True,jägermeister
+53,Kahlua,29.0,True,kahlua
+358,Kirschwasser,1.0,True,kirschwasser
+321,Kiwi liqueur,1.0,True,kiwi
+180,Kool-Aid,4.0,True,kool-aid
+339,Kummel,1.0,True,kummel
+138,Lager,6.0,True,lager
+322,Lavender,1.0,True,lavender
+21,lemon,4.0,True,lemon
+390,,,True,lemon 
+354,Lemon vodka,1.0,True,lemon vodka
+134,Lemon-lime soda,7.0,True,lemon-lime
+106,Lemonade,10.0,True,lemonade
+371,Licorice root,1.0,True,licorice
+330,Lillet,1.0,True,lillet
+255,Lillet Blanc,2.0,True,lillet blanc
+45,Lime Juice,18.0,True,lime
+384,,,True,lime 
+319,Lime vodka,1.0,True,lime vodka
+285,Limeade,1.0,True,limeade
+388,,,True,lychee
+386,,,True,lychee 
+117,Malibu Rum,1.0,True,malibu rum
+280,Maple syrup,1.0,True,maple
+132,maraschino liqueur,1.0,True,maraschino
+406,,,True,maraschino cherries
+89,Maraschino cherry,15.0,True,maraschino cherry
+315,Marjoram leaves,1.0,True,marjoram
+343,Maui,1.0,True,maui
+283,Melon Liqueur,1.0,True,melon
+158,Green Creme de Menthe,3.0,True,menthe
+308,Mezcal,1.0,True,mezcal
+409,,,True,midori
+110,Midori melon liqueur,10.0,True,midori melon
+77,Milk,16.0,True,milk
+336,Mini-snickers bars,1.0,True,mini-snickers bars
+98,Mint,13.0,True,mint
+182,Mountain Dew,3.0,True,mountain dew
+365,Creme de Mure,1.0,True,mure
+112,Nutmeg,10.0,True,nutmeg
+162,Olive,5.0,True,olive
+355,Olive Brine,1.0,True,olive brine
+9,Orange juice,50.0,True,orange
+387,,,True,orange 
+221,Orange Curacao,2.0,True,orange curacao
+185,Orange spiral,3.0,True,orange spiral
+359,Oreo cookie,1.0,True,oreo cookie
+248,Orgeat syrup,2.0,True,orgeat
+271,Ouzo,2.0,True,ouzo
+226,Passion fruit juice,1.0,True,passion fruit
+232,Passoa,2.0,True,passoa
+233,Peach nectar,2.0,True,peach
+299,Peach brandy,1.0,True,peach brandy
+105,Peach schnapps,11.0,True,peach schnapps
+240,Peach Vodka,2.0,True,peach vodka
+265,Peachtree schnapps,2.0,True,peachtree schnapps
+236,Pepper,2.0,True,pepper
+276,Peppermint extract,1.0,True,peppermint
+346,Peppermint schnapps,1.0,True,peppermint schnapps
+259,Pepsi Cola,2.0,True,pepsi cola
+351,Pernod,1.0,True,pernod
+372,Peychaud bitters,1.0,True,peychaud
+317,Pina colada mix,1.0,True,pina colada
+86,pineapple juice,1.0,True,pineapple
+399,,,True,pineapple 
+407,,,True,pineapple slices
+402,,,True,pineapple.
+270,Pisang Ambon,2.0,True,pisang ambon
+269,Pisco,2.0,True,pisco
+333,Pomegranate juice,1.0,True,pomegranate
+166,Port,5.0,True,port
+150,Prosecco,6.0,True,prosecco
+328,Raisins,1.0,True,raisin
+223,Raspberry Liqueur,1.0,True,raspberry
+286,Raspberry vodka,1.0,True,raspberry vodka
+392,,,True,rhubarb stalks
+323,Ricard,1.0,True,ricard
+329,Sirup of roses,1.0,True,rose
+258,Rosemary Syrup,1.0,True,rosemary
+352,Roses sweetened lime juice,1.0,True,roses  lime
+275,Rosso Vermouth,1.0,True,rosso vermouth
+25,Light rum,43.0,True,rum
+284,Rumple Minze,1.0,True,rumple minze
+201,Rye Whiskey,1.0,True,rye whiskey
+139,Salt,6.0,True,salt
+334,Salted Chocolate,1.0,True,salted chocolate
+108,Sambuca,10.0,True,sambuca
+362,Sarsaparilla,1.0,True,sarsaparilla
+195,Schweppes Russchian,3.0,True,schweppes russchian
+91,Scotch,15.0,True,scotch
+159,Sherry,5.0,True,sherry
+401,,,True,simple 
+167,Sloe gin,5.0,True,sloe gin
+74,Soda water,9.0,True,soda water
+73,Sour mix,9.0,True,sour mix
+127,Southern Comfort,8.0,True,southern comfort
+376,Soy Sauce,1.0,True,soy
+213,Spiced rum,3.0,True,spiced rum
+137,Sprite,6.0,True,sprite
+145,Strawberries,6.0,True,stberries
+241,Strawberry liqueur,2.0,True,stberry
+214,Strawberry schnapps,3.0,True,stberry schnapps
+4,Sugar,51.0,True,sugar
+202,Surge,3.0,True,surge
+96,Sweet and Sour,2.0,True,sweet
+59,Sweet Vermouth,25.0,True,sweet vermouth
+163,Tabasco sauce,5.0,True,tabasco
+181,Tea,4.0,True,tea
+300,Tennessee whiskey,1.0,True,tennessee whiskey
+56,Tequila,28.0,True,tequila
+338,Thyme,1.0,True,thyme
+262,Tia maria,2.0,True,tia maria
+253,Tomato Juice,2.0,True,tomato
+164,Tonic water,5.0,True,tonic
+39,Triple sec,36.0,True,triple sec
+408,,,True,triple sec (cointreau)
+364,Tropicana,1.0,True,tropicana
+398,,,True,turmeric 
+177,Vanilla syrup,1.0,True,vanilla
+155,Vanilla ice-cream,5.0,True,vanilla ice-cream
+361,Vanilla vodka,1.0,True,vanilla vodka
+57,Dry Vermouth,26.0,True,vermouth
+2,Vodka,94.0,True,vodka
+61,Water,24.0,True,water
+244,Watermelon,2.0,True,watermelon
+410,,,True,watermelon 
+123,Blended whiskey,8.0,True,whiskey
+303,Whisky,1.0,True,whisky
+119,Red wine,9.0,True,wine
+278,Worcestershire Sauce,1.0,True,worcestershire
+256,Wormwood,2.0,True,wormwood
+245,Yellow Chartreuse,2.0,True,yellow chartreuse
+297,Yukon Jack,1.0,True,yukon jack
+260,Zima,2.0,True,zima
