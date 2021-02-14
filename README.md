@@ -14,12 +14,14 @@ The project is to build a model that predicts whether a food (food ingredient) o
 ## Features and Target Variables
 The **_target_** label, therefore, is determined by matching one data source for food (food items) with existing sources for cocktail recipes, and using that match to assign a true vs. false label for the particular food (food item).
 
-**Features** include
-Categories
+##### Features  
+Categorical
 * food group
 * food subgroup
-* food type (unprocessed vs. processed)
-* 15,000 types of continuous measurements which are the concentrations (in mg per 100 grams) of chemical compounds in each food part (leaf, bulb, fruit, seed).
+* food type (unprocessed vs. processed)  
+
+Continuous
+* 15,000 types of continuous measurements which are the concentrations (in mg per 100 grams) of chemical compounds in each food part (leaf, bulb, fruit, seed). These were engineered by aggregating them for each food. Additionally 8,000 more speculative continuous features were engineered based on these, by weighting concentrations according to their proportion of the food whose chemical content was actually measured. (This might privilege concentrations in liquids or animal products, because their weight is more affected by water or other unanalyzed parts such as bone.)
 
 
 ## Data Used
